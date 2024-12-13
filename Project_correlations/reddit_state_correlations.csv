@@ -1,0 +1,2901 @@
+state,term,correlation
+AK,aching,-0.07241171747318081
+AK,always,0.4918985511855472
+AK,anxiety,0.0
+AK,anymore,-0.31458368611304627
+AK,bpd,0.0
+AK,crippling,0.0
+AK,crying,0.38937980728677757
+AK,cutting,0.0
+AK,depression,0.0
+AK,don't know why,0.0
+AK,down,0.6427644124427753
+AK,empty,0.0
+AK,grippy socks,0.0
+AK,help me,0.0
+AK,helpless,0.0
+AK,hopeless,0.0
+AK,hurt,-0.31458368611304627
+AK,hurting,0.0
+AK,i hate myself,0.0
+AK,insecure,0.0
+AK,intrusive,0.0
+AK,kill me,0.0
+AK,kill myself,0.0
+AK,kms,0.0
+AK,lonely,0.38937980728677757
+AK,lost,-0.0535205111636266
+AK,low,0.7276881108900037
+AK,mental health,0.38937980728677757
+AK,mental illness,0.0
+AK,mentally ill,0.0
+AK,miserable,0.0
+AK,never,0.4729553555694001
+AK,not well,0.0
+AK,nothing matters,0.0
+AK,numb,0.0
+AK,overwhelmed,0.0
+AK,pain,0.8439943153259603
+AK,ptsd,0.0
+AK,sad,0.38937980728677757
+AK,self harm,0.0
+AK,social anxiety,0.0
+AK,stressed,0.0
+AK,stressy depressy,0.0
+AK,struggle,0.0
+AK,stuck,0.0
+AK,suey,0.0
+AK,suicidal,0.0
+AK,suicide,0.0
+AK,tired,0.0
+AK,trauma,0.0
+AK,unalive,0.0
+AK,unaliving,0.0
+AK,unmotivated,0.0
+AK,unwanted,0.0
+AK,unwell,0.0
+AK,vulnerable,0.0
+AK,worse,0.0
+AK,worthless,0.0
+AL,aching,-0.18566873233949255
+AL,always,0.5906469831443464
+AL,anxiety,0.0
+AL,anymore,0.47636513733310465
+AL,bpd,0.0
+AL,crippling,0.0
+AL,crying,0.0
+AL,cutting,0.0
+AL,depression,0.0
+AL,don't know why,0.0
+AL,down,0.38499132429017324
+AL,empty,0.0
+AL,grippy socks,0.0
+AL,help me,0.4763651373331047
+AL,helpless,0.0
+AL,hopeless,0.0
+AL,hurt,0.0
+AL,hurting,0.0
+AL,i hate myself,0.0
+AL,insecure,0.0
+AL,intrusive,0.0
+AL,kill me,0.0
+AL,kill myself,0.0
+AL,kms,0.0
+AL,lonely,0.0
+AL,lost,0.9734351844109498
+AL,low,0.3931744602364483
+AL,mental health,0.5956008361051565
+AL,mental illness,0.0
+AL,mentally ill,0.4763651373331047
+AL,miserable,0.0
+AL,never,0.2246325591434233
+AL,not well,0.0
+AL,nothing matters,0.0
+AL,numb,-0.024179639347426552
+AL,overwhelmed,0.0
+AL,pain,0.5728311241469647
+AL,ptsd,0.0
+AL,sad,0.29289575844277554
+AL,self harm,0.0
+AL,social anxiety,0.0
+AL,stressed,0.0
+AL,stressy depressy,0.0
+AL,struggle,0.0
+AL,stuck,0.7897855427009436
+AL,suey,0.0
+AL,suicidal,0.0
+AL,suicide,0.4763651373331047
+AL,tired,0.17128360348158536
+AL,trauma,0.29289575844277554
+AL,unalive,0.0
+AL,unaliving,0.0
+AL,unmotivated,0.0
+AL,unwanted,0.0
+AL,unwell,0.0
+AL,vulnerable,0.0
+AL,worse,0.3451291045017177
+AL,worthless,0.0
+AR,aching,0.511204680015152
+AR,always,0.511204680015152
+AR,anxiety,0.27771828715716773
+AR,anymore,0.3520764735699037
+AR,bpd,0.0
+AR,crippling,0.0
+AR,crying,0.0
+AR,cutting,0.0
+AR,depression,0.27771828715716773
+AR,don't know why,0.0
+AR,down,0.3529735843687078
+AR,empty,0.5873415472514514
+AR,grippy socks,0.0
+AR,help me,0.0
+AR,helpless,0.0
+AR,hopeless,0.0
+AR,hurt,0.5112046800151521
+AR,hurting,0.0
+AR,i hate myself,0.0
+AR,insecure,0.0
+AR,intrusive,0.0
+AR,kill me,0.0
+AR,kill myself,0.0
+AR,kms,0.0
+AR,lonely,0.0
+AR,lost,0.25531900346534675
+AR,low,-0.21516950004241545
+AR,mental health,0.2777182871571677
+AR,mental illness,0.0
+AR,mentally ill,0.0
+AR,miserable,0.0
+AR,never,0.5540607631713563
+AR,not well,0.0
+AR,nothing matters,0.0
+AR,numb,0.3071482015122893
+AR,overwhelmed,0.0
+AR,pain,-0.3448137372887269
+AR,ptsd,0.0
+AR,sad,0.4012435982409469
+AR,self harm,0.0
+AR,social anxiety,0.0
+AR,stressed,0.0
+AR,stressy depressy,0.0
+AR,struggle,0.0
+AR,stuck,0.0
+AR,suey,0.0
+AR,suicidal,0.0
+AR,suicide,0.0
+AR,tired,0.5957421546615842
+AR,trauma,0.0
+AR,unalive,0.0
+AR,unaliving,0.0
+AR,unmotivated,0.0
+AR,unwanted,0.27771828715716773
+AR,unwell,0.0
+AR,vulnerable,0.0
+AR,worse,0.3377813967800777
+AR,worthless,0.0
+AZ,aching,0.0
+AZ,always,0.3181814706776622
+AZ,anxiety,0.0
+AZ,anymore,0.4113808696050335
+AZ,bpd,0.0
+AZ,crippling,0.0
+AZ,crying,0.0
+AZ,cutting,0.0
+AZ,depression,0.0
+AZ,don't know why,0.0
+AZ,down,0.21861962764345205
+AZ,empty,-0.2940730435067232
+AZ,grippy socks,0.0
+AZ,help me,0.0
+AZ,helpless,0.0
+AZ,hopeless,0.0
+AZ,hurt,0.0
+AZ,hurting,0.0
+AZ,i hate myself,0.0
+AZ,insecure,0.0
+AZ,intrusive,0.0
+AZ,kill me,0.0
+AZ,kill myself,0.0
+AZ,kms,0.0
+AZ,lonely,0.0
+AZ,lost,-0.1825705683891882
+AZ,low,0.7193187164329511
+AZ,mental health,0.4113808696050335
+AZ,mental illness,0.0
+AZ,mentally ill,0.0
+AZ,miserable,0.0
+AZ,never,0.169117486304433
+AZ,not well,0.0
+AZ,nothing matters,0.0
+AZ,numb,0.4859820467173145
+AZ,overwhelmed,0.0
+AZ,pain,0.14269927219626713
+AZ,ptsd,0.0
+AZ,sad,-0.4033460869955601
+AZ,self harm,0.0
+AZ,social anxiety,0.0
+AZ,stressed,0.0
+AZ,stressy depressy,0.0
+AZ,struggle,-0.40334608699556024
+AZ,stuck,-0.04037449991953379
+AZ,suey,0.0
+AZ,suicidal,0.0
+AZ,suicide,0.0
+AZ,tired,-0.04494413433263018
+AZ,trauma,0.0
+AZ,unalive,0.0
+AZ,unaliving,0.0
+AZ,unmotivated,0.0
+AZ,unwanted,0.0
+AZ,unwell,0.0
+AZ,vulnerable,0.0
+AZ,worse,0.0
+AZ,worthless,0.0
+CA,aching,0.0
+CA,always,0.5832115368461864
+CA,anxiety,0.0
+CA,anymore,0.0
+CA,bpd,0.0
+CA,crippling,0.0
+CA,crying,0.0
+CA,cutting,0.0
+CA,depression,0.49688194931080204
+CA,don't know why,0.0
+CA,down,-0.061753516851392465
+CA,empty,0.0
+CA,grippy socks,0.0
+CA,help me,0.0
+CA,helpless,0.0
+CA,hopeless,0.0
+CA,hurt,0.496881949310802
+CA,hurting,0.0
+CA,i hate myself,0.0
+CA,insecure,0.0
+CA,intrusive,0.0
+CA,kill me,0.0
+CA,kill myself,0.0
+CA,kms,0.0
+CA,lonely,0.0
+CA,lost,0.6603803583248106
+CA,low,0.9347949149847734
+CA,mental health,0.49339392191172116
+CA,mental illness,0.49688194931080204
+CA,mentally ill,0.0
+CA,miserable,0.0
+CA,never,-0.37138138558190986
+CA,not well,0.0
+CA,nothing matters,0.0
+CA,numb,0.506910542287269
+CA,overwhelmed,-0.2271831250931165
+CA,pain,-0.26580425635894633
+CA,ptsd,0.0
+CA,sad,0.49688194931080204
+CA,self harm,0.0
+CA,social anxiety,0.0
+CA,stressed,0.0
+CA,stressy depressy,0.0
+CA,struggle,-0.2658042563589464
+CA,stuck,-0.23302497688122525
+CA,suey,0.0
+CA,suicidal,0.0
+CA,suicide,0.0
+CA,tired,0.0
+CA,trauma,0.0
+CA,unalive,0.0
+CA,unaliving,0.0
+CA,unmotivated,0.0
+CA,unwanted,0.0
+CA,unwell,0.0
+CA,vulnerable,0.49688194931080204
+CA,worse,0.42323265747469285
+CA,worthless,0.0
+CO,aching,0.6310087766614455
+CO,always,0.4474784678904856
+CO,anxiety,0.0
+CO,anymore,0.0
+CO,bpd,0.0
+CO,crippling,0.0
+CO,crying,0.0
+CO,cutting,0.0
+CO,depression,0.0
+CO,don't know why,0.0
+CO,down,0.3067520315755008
+CO,empty,0.12512486071126006
+CO,grippy socks,0.0
+CO,help me,0.0
+CO,helpless,0.0
+CO,hopeless,0.0
+CO,hurt,0.4474784678904857
+CO,hurting,0.0
+CO,i hate myself,0.0
+CO,insecure,0.0
+CO,intrusive,0.0
+CO,kill me,0.0
+CO,kill myself,0.0
+CO,kms,0.0
+CO,lonely,0.0
+CO,lost,0.8430212987916789
+CO,low,-0.030181668025487725
+CO,mental health,0.6310087766614455
+CO,mental illness,0.0
+CO,mentally ill,0.0
+CO,miserable,0.0
+CO,never,0.496718150125818
+CO,not well,0.0
+CO,nothing matters,0.0
+CO,numb,-0.28269587883268826
+CO,overwhelmed,0.6310087766614455
+CO,pain,0.7150594610327415
+CO,ptsd,0.0
+CO,sad,0.6310087766614455
+CO,self harm,0.0
+CO,social anxiety,0.0
+CO,stressed,0.0
+CO,stressy depressy,0.0
+CO,struggle,0.0
+CO,stuck,0.3606469239558379
+CO,suey,0.0
+CO,suicidal,0.0
+CO,suicide,0.0
+CO,tired,0.4474784678904856
+CO,trauma,0.0
+CO,unalive,0.0
+CO,unaliving,0.0
+CO,unmotivated,0.0
+CO,unwanted,0.0
+CO,unwell,0.0
+CO,vulnerable,0.4474784678904856
+CO,worse,0.0
+CO,worthless,0.0
+CT,aching,0.15954046618143464
+CT,always,0.67091969255113
+CT,anxiety,0.0
+CT,anymore,-0.26966851035778605
+CT,bpd,0.0
+CT,crippling,0.0
+CT,crying,0.0
+CT,cutting,-0.10735836677537246
+CT,depression,0.0
+CT,don't know why,0.0
+CT,down,0.5727885627231847
+CT,empty,0.45275448896190174
+CT,grippy socks,0.0
+CT,help me,0.0
+CT,helpless,0.45275448896190174
+CT,hopeless,0.0
+CT,hurt,-0.30619551594136574
+CT,hurting,0.0
+CT,i hate myself,0.0
+CT,insecure,0.0
+CT,intrusive,0.0
+CT,kill me,0.0
+CT,kill myself,0.0
+CT,kms,0.0
+CT,lonely,0.0
+CT,lost,0.4694321966460245
+CT,low,0.5529030614844657
+CT,mental health,0.4527544889619017
+CT,mental illness,0.2538852363401899
+CT,mentally ill,0.0
+CT,miserable,0.0
+CT,never,0.8223715050037698
+CT,not well,0.0
+CT,nothing matters,0.0
+CT,numb,0.457002019384453
+CT,overwhelmed,0.0
+CT,pain,0.3097764630258981
+CT,ptsd,0.25388523634018983
+CT,sad,0.1640915912230402
+CT,self harm,0.0
+CT,social anxiety,0.0
+CT,stressed,0.0
+CT,stressy depressy,0.0
+CT,struggle,0.2538852363401899
+CT,stuck,0.12106856229665527
+CT,suey,0.0
+CT,suicidal,0.0
+CT,suicide,-0.28184417888564606
+CT,tired,0.8625029414292911
+CT,trauma,0.0
+CT,unalive,0.0
+CT,unaliving,0.0
+CT,unmotivated,0.0
+CT,unwanted,0.45275448896190174
+CT,unwell,0.0
+CT,vulnerable,0.5103256377809744
+CT,worse,0.296928427020272
+CT,worthless,0.0
+DE,aching,-0.3010330079287246
+DE,always,0.2002993638892019
+DE,anxiety,0.0
+DE,anymore,0.4361906849579479
+DE,bpd,0.0
+DE,crippling,0.0
+DE,crying,0.0
+DE,cutting,0.0
+DE,depression,0.0
+DE,don't know why,0.0
+DE,down,0.6238860752073639
+DE,empty,0.0
+DE,grippy socks,0.0
+DE,help me,-0.3010330079287246
+DE,helpless,0.0
+DE,hopeless,0.0
+DE,hurt,0.7556615842550966
+DE,hurting,0.0
+DE,i hate myself,0.0
+DE,insecure,0.0
+DE,intrusive,0.0
+DE,kill me,0.0
+DE,kill myself,0.0
+DE,kms,0.0
+DE,lonely,-0.3010330079287246
+DE,lost,0.31055334360398695
+DE,low,0.7377426751132699
+DE,mental health,0.0
+DE,mental illness,0.0
+DE,mentally ill,0.0
+DE,miserable,0.0
+DE,never,0.11955592752120568
+DE,not well,0.0
+DE,nothing matters,0.0
+DE,numb,0.7581302177150596
+DE,overwhelmed,0.0
+DE,pain,0.6866590640045948
+DE,ptsd,0.0
+DE,sad,-0.3010330079287246
+DE,self harm,0.0
+DE,social anxiety,0.0
+DE,stressed,0.0
+DE,stressy depressy,0.0
+DE,struggle,-0.3010330079287246
+DE,stuck,0.5663372750000959
+DE,suey,0.0
+DE,suicidal,0.0
+DE,suicide,0.0
+DE,tired,0.28244017086103146
+DE,trauma,0.0
+DE,unalive,0.0
+DE,unaliving,0.0
+DE,unmotivated,0.0
+DE,unwanted,0.49762599269850394
+DE,unwell,0.0
+DE,vulnerable,0.49762599269850394
+DE,worse,0.34793593181623383
+DE,worthless,0.0
+FL,aching,-0.018761327300176624
+FL,always,0.13960665118760868
+FL,anxiety,0.0
+FL,anymore,0.5048295670582315
+FL,bpd,0.0
+FL,crippling,0.4028885658085447
+FL,crying,0.0
+FL,cutting,0.0
+FL,depression,0.5482652980254893
+FL,don't know why,0.0
+FL,down,0.5083763105182529
+FL,empty,0.0
+FL,grippy socks,0.0
+FL,help me,0.3192655558738212
+FL,helpless,0.0
+FL,hopeless,0.0
+FL,hurt,0.12147610539294043
+FL,hurting,0.5048295670582315
+FL,i hate myself,0.0
+FL,insecure,0.0
+FL,intrusive,0.0
+FL,kill me,0.5482652980254893
+FL,kill myself,0.0
+FL,kms,0.0
+FL,lonely,0.0
+FL,lost,-0.2885373557110699
+FL,low,-0.12882253567949814
+FL,mental health,0.0
+FL,mental illness,0.0
+FL,mentally ill,0.0
+FL,miserable,0.0
+FL,never,0.3500094105041763
+FL,not well,0.0
+FL,nothing matters,0.0
+FL,numb,-0.14991082536708938
+FL,overwhelmed,0.0
+FL,pain,-0.28853735571107
+FL,ptsd,0.0
+FL,sad,0.18898726557055262
+FL,self harm,0.0
+FL,social anxiety,0.0
+FL,stressed,0.0
+FL,stressy depressy,0.0
+FL,struggle,0.0
+FL,stuck,0.5048295670582315
+FL,suey,0.0
+FL,suicidal,0.0
+FL,suicide,0.40288856580854465
+FL,tired,0.06625576772939747
+FL,trauma,0.0
+FL,unalive,0.0
+FL,unaliving,0.0
+FL,unmotivated,0.0
+FL,unwanted,0.0
+FL,unwell,0.0
+FL,vulnerable,0.0
+FL,worse,0.33088347639125826
+FL,worthless,0.0
+GA,aching,0.0
+GA,always,0.23956124894673145
+GA,anxiety,0.0
+GA,anymore,0.3467213632861458
+GA,bpd,0.0
+GA,crippling,0.0
+GA,crying,0.0
+GA,cutting,0.0
+GA,depression,0.0
+GA,don't know why,0.0
+GA,down,0.34018166636093566
+GA,empty,0.0
+GA,grippy socks,0.0
+GA,help me,0.3467213632861458
+GA,helpless,0.0
+GA,hopeless,0.0
+GA,hurt,0.0
+GA,hurting,0.0
+GA,i hate myself,0.0
+GA,insecure,0.0
+GA,intrusive,0.0
+GA,kill me,0.0
+GA,kill myself,0.0
+GA,kms,0.0
+GA,lonely,0.0
+GA,lost,0.4942096286339612
+GA,low,-0.2919451816330876
+GA,mental health,0.0
+GA,mental illness,0.0
+GA,mentally ill,0.0
+GA,miserable,0.0
+GA,never,0.47581010876456203
+GA,not well,0.0
+GA,nothing matters,0.0
+GA,numb,0.5557307716080446
+GA,overwhelmed,0.0
+GA,pain,0.507256815523967
+GA,ptsd,0.0
+GA,sad,0.019037058865671686
+GA,self harm,0.0
+GA,social anxiety,0.0
+GA,stressed,0.0
+GA,stressy depressy,0.0
+GA,struggle,0.4942096286339612
+GA,stuck,0.3467213632861459
+GA,suey,0.0
+GA,suicidal,0.0
+GA,suicide,0.0
+GA,tired,0.1303714708621426
+GA,trauma,0.0
+GA,unalive,0.0
+GA,unaliving,0.0
+GA,unmotivated,0.0
+GA,unwanted,0.0
+GA,unwell,0.0
+GA,vulnerable,0.3467213632861459
+GA,worse,0.38440487802753603
+GA,worthless,0.3467213632861458
+HI,aching,0.1050333832016223
+HI,always,0.540958848317234
+HI,anxiety,0.0
+HI,anymore,0.49232990222820244
+HI,bpd,0.0
+HI,crippling,0.0
+HI,crying,0.3853012082683962
+HI,cutting,0.38530120826839626
+HI,depression,0.0
+HI,don't know why,0.0
+HI,down,0.8187847220294475
+HI,empty,-0.1713498444685758
+HI,grippy socks,0.0
+HI,help me,0.5515095726194691
+HI,helpless,0.0
+HI,hopeless,0.0
+HI,hurt,0.4103099472982669
+HI,hurting,0.38530120826839626
+HI,i hate myself,0.0
+HI,insecure,0.0
+HI,intrusive,0.0
+HI,kill me,0.0
+HI,kill myself,0.0
+HI,kms,0.0
+HI,lonely,0.0
+HI,lost,0.7061221298046754
+HI,low,0.4751057092074739
+HI,mental health,0.0
+HI,mental illness,0.0
+HI,mentally ill,0.0
+HI,miserable,0.0
+HI,never,0.455388030257863
+HI,not well,0.0
+HI,nothing matters,0.0
+HI,numb,0.3964438883835735
+HI,overwhelmed,0.38530120826839626
+HI,pain,0.9288731877581465
+HI,ptsd,0.0
+HI,sad,0.9175727155760843
+HI,self harm,0.0
+HI,social anxiety,0.0
+HI,stressed,-0.07884468494167407
+HI,stressy depressy,0.0
+HI,struggle,0.38530120826839626
+HI,stuck,0.3235081785041487
+HI,suey,0.0
+HI,suicidal,0.0
+HI,suicide,0.0
+HI,tired,0.34989169266385217
+HI,trauma,-0.2946421004405383
+HI,unalive,0.0
+HI,unaliving,0.0
+HI,unmotivated,0.0
+HI,unwanted,0.3853012082683962
+HI,unwell,0.0
+HI,vulnerable,0.0
+HI,worse,-0.13326473809216566
+HI,worthless,0.0
+IA,aching,0.5351615225114215
+IA,always,0.38576798118140554
+IA,anxiety,-0.3244183618872353
+IA,anymore,0.4044375066899544
+IA,bpd,0.0
+IA,crippling,0.0
+IA,crying,0.0
+IA,cutting,0.6478117052535
+IA,depression,0.0
+IA,don't know why,0.0
+IA,down,0.7013890932404407
+IA,empty,0.0
+IA,grippy socks,0.0
+IA,help me,0.306993047030733
+IA,helpless,0.0
+IA,hopeless,0.0
+IA,hurt,0.3308489723139924
+IA,hurting,0.10119787878851708
+IA,i hate myself,0.0
+IA,insecure,0.0
+IA,intrusive,0.0
+IA,kill me,0.0
+IA,kill myself,0.0
+IA,kms,0.0
+IA,lonely,0.0
+IA,lost,0.826811231687381
+IA,low,-0.27668050604920713
+IA,mental health,0.0
+IA,mental illness,0.0
+IA,mentally ill,0.0
+IA,miserable,0.6478117052534998
+IA,never,0.44023614819030027
+IA,not well,0.0
+IA,nothing matters,0.0
+IA,numb,0.1389931825665772
+IA,overwhelmed,0.0
+IA,pain,-0.19771552418897692
+IA,ptsd,0.0
+IA,sad,0.5460135352484539
+IA,self harm,0.0
+IA,social anxiety,0.0
+IA,stressed,0.0
+IA,stressy depressy,0.0
+IA,struggle,0.0
+IA,stuck,-0.050035040916939943
+IA,suey,0.0
+IA,suicidal,0.0
+IA,suicide,0.0
+IA,tired,0.3602280308463305
+IA,trauma,0.0
+IA,unalive,0.0
+IA,unaliving,0.0
+IA,unmotivated,0.0
+IA,unwanted,0.0
+IA,unwell,0.0
+IA,vulnerable,0.0
+IA,worse,0.4031468785373571
+IA,worthless,0.0
+ID,aching,0.4474352037821309
+ID,always,0.6346554912942556
+ID,anxiety,0.611821904339657
+ID,anymore,0.21935072443182682
+ID,bpd,0.0
+ID,crippling,0.0
+ID,crying,0.0
+ID,cutting,0.5487587901802858
+ID,depression,0.0
+ID,don't know why,0.0
+ID,down,0.6333533982913968
+ID,empty,-0.3438998115372706
+ID,grippy socks,0.0
+ID,help me,0.0
+ID,helpless,0.0
+ID,hopeless,0.0
+ID,hurt,0.0
+ID,hurting,0.0
+ID,i hate myself,0.0
+ID,insecure,0.0
+ID,intrusive,0.0
+ID,kill me,0.0
+ID,kill myself,0.0
+ID,kms,0.0
+ID,lonely,0.0
+ID,lost,0.05873838627085238
+ID,low,-0.2728475995009239
+ID,mental health,0.5487587901802858
+ID,mental illness,0.2320089637643787
+ID,mentally ill,0.0
+ID,miserable,0.0
+ID,never,0.3300493657013271
+ID,not well,0.0
+ID,nothing matters,0.0
+ID,numb,0.2320089637643787
+ID,overwhelmed,0.0
+ID,pain,0.3783422410056902
+ID,ptsd,0.0
+ID,sad,0.2320089637643787
+ID,self harm,0.0
+ID,social anxiety,0.0
+ID,stressed,0.0
+ID,stressy depressy,0.0
+ID,struggle,0.6122868446213874
+ID,stuck,0.5833133166983847
+ID,suey,0.0
+ID,suicidal,0.0
+ID,suicide,0.0
+ID,tired,0.23200896376437877
+ID,trauma,0.0
+ID,unalive,0.0
+ID,unaliving,0.0
+ID,unmotivated,0.0
+ID,unwanted,0.0
+ID,unwell,0.0
+ID,vulnerable,0.0
+ID,worse,0.23200896376437868
+ID,worthless,-0.3438998115372706
+IL,aching,0.0
+IL,always,0.5010180659378282
+IL,anxiety,0.0
+IL,anymore,0.0
+IL,bpd,0.0
+IL,crippling,0.0
+IL,crying,0.0
+IL,cutting,0.0
+IL,depression,0.0
+IL,don't know why,0.0
+IL,down,0.30770740086547455
+IL,empty,0.38086175671291417
+IL,grippy socks,0.0
+IL,help me,0.0
+IL,helpless,0.0
+IL,hopeless,0.0
+IL,hurt,-0.3411030756384921
+IL,hurting,0.0
+IL,i hate myself,0.0
+IL,insecure,0.0
+IL,intrusive,0.0
+IL,kill me,0.0
+IL,kill myself,0.0
+IL,kms,0.0
+IL,lonely,0.0
+IL,lost,0.3808617567129142
+IL,low,0.05893752945064475
+IL,mental health,0.6772437214724998
+IL,mental illness,0.0
+IL,mentally ill,0.0
+IL,miserable,0.0
+IL,never,0.6078122928471315
+IL,not well,0.0
+IL,nothing matters,0.0
+IL,numb,0.25018029638838396
+IL,overwhelmed,0.0
+IL,pain,0.4168486346183821
+IL,ptsd,0.0
+IL,sad,0.29735716037527987
+IL,self harm,0.0
+IL,social anxiety,0.0
+IL,stressed,0.0
+IL,stressy depressy,0.0
+IL,struggle,0.018116626797559498
+IL,stuck,0.0
+IL,suey,0.0
+IL,suicidal,0.0
+IL,suicide,0.0
+IL,tired,0.5246385369820421
+IL,trauma,0.0
+IL,unalive,0.0
+IL,unaliving,0.0
+IL,unmotivated,0.0
+IL,unwanted,0.0
+IL,unwell,0.0
+IL,vulnerable,0.0
+IL,worse,0.6302384610629324
+IL,worthless,0.0
+IN,aching,0.7348867371451596
+IN,always,0.42364160998789696
+IN,anxiety,0.38860058256558966
+IN,anymore,0.45964907257758153
+IN,bpd,0.0
+IN,crippling,0.0
+IN,crying,0.0
+IN,cutting,0.3886005825655896
+IN,depression,0.0
+IN,don't know why,0.0
+IN,down,0.30345431452824284
+IN,empty,0.0
+IN,grippy socks,0.0
+IN,help me,-0.29415807754964923
+IN,helpless,0.0
+IN,hopeless,0.0
+IN,hurt,0.38860058256558966
+IN,hurting,0.0
+IN,i hate myself,0.0
+IN,insecure,0.0
+IN,intrusive,0.0
+IN,kill me,0.0
+IN,kill myself,0.0
+IN,kms,0.0
+IN,lonely,0.0
+IN,lost,0.38860058256558966
+IN,low,0.7401641713072378
+IN,mental health,0.6000131626012728
+IN,mental illness,0.0
+IN,mentally ill,0.0
+IN,miserable,0.0
+IN,never,0.27299500180420333
+IN,not well,0.0
+IN,nothing matters,0.0
+IN,numb,0.1271763491618623
+IN,overwhelmed,0.0
+IN,pain,0.9288079242761846
+IN,ptsd,0.0
+IN,sad,0.5361070351828034
+IN,self harm,0.0
+IN,social anxiety,0.0
+IN,stressed,0.3886005825655896
+IN,stressy depressy,0.0
+IN,struggle,0.0
+IN,stuck,0.38860058256558966
+IN,suey,0.0
+IN,suicidal,0.0
+IN,suicide,0.0
+IN,tired,0.6026013601621442
+IN,trauma,0.0
+IN,unalive,0.0
+IN,unaliving,0.0
+IN,unmotivated,0.0
+IN,unwanted,0.0
+IN,unwell,0.0
+IN,vulnerable,0.0
+IN,worse,0.0
+IN,worthless,0.0
+KS,aching,0.6277149629875634
+KS,always,0.25624616858393207
+KS,anxiety,0.0
+KS,anymore,0.3026352396037894
+KS,bpd,0.0
+KS,crippling,0.0
+KS,crying,0.5192945588655933
+KS,cutting,0.5674410742571052
+KS,depression,0.3026352396037894
+KS,don't know why,0.0
+KS,down,0.4945397588804428
+KS,empty,0.3026352396037894
+KS,grippy socks,0.0
+KS,help me,0.3026352396037894
+KS,helpless,0.0
+KS,hopeless,0.0
+KS,hurt,0.6502391197718724
+KS,hurting,0.3026352396037894
+KS,i hate myself,0.0
+KS,insecure,0.0
+KS,intrusive,0.0
+KS,kill me,0.0
+KS,kill myself,0.0
+KS,kms,0.0
+KS,lonely,0.0
+KS,lost,0.4110290581714096
+KS,low,0.40122726844694756
+KS,mental health,0.5192945588655932
+KS,mental illness,0.5674410742571051
+KS,mentally ill,0.0
+KS,miserable,0.0
+KS,never,0.5823422660355663
+KS,not well,0.0
+KS,nothing matters,0.0
+KS,numb,0.7994776886331901
+KS,overwhelmed,0.0
+KS,pain,0.4892446771766917
+KS,ptsd,0.567441074257105
+KS,sad,0.3026352396037894
+KS,self harm,0.0
+KS,social anxiety,0.0
+KS,stressed,0.0
+KS,stressy depressy,0.0
+KS,struggle,0.0
+KS,stuck,0.0
+KS,suey,0.0
+KS,suicidal,0.0
+KS,suicide,0.5784374823606168
+KS,tired,0.4570921632035799
+KS,trauma,0.3026352396037894
+KS,unalive,0.0
+KS,unaliving,0.0
+KS,unmotivated,0.0
+KS,unwanted,0.0
+KS,unwell,0.0
+KS,vulnerable,0.0
+KS,worse,0.0
+KS,worthless,0.0
+KY,aching,-0.2977023524249031
+KY,always,-0.2716848439488712
+KY,anxiety,0.145336069235769
+KY,anymore,0.0
+KY,bpd,0.0
+KY,crippling,0.0
+KY,crying,0.0
+KY,cutting,0.48766800233752455
+KY,depression,0.0
+KY,don't know why,0.0
+KY,down,0.2622709858562002
+KY,empty,0.0
+KY,grippy socks,0.0
+KY,help me,-0.2869622450093486
+KY,helpless,0.0
+KY,hopeless,0.0
+KY,hurt,-0.29770235242490317
+KY,hurting,-0.29770235242490317
+KY,i hate myself,0.0
+KY,insecure,0.0
+KY,intrusive,0.0
+KY,kill me,0.0
+KY,kill myself,0.0
+KY,kms,0.0
+KY,lonely,0.0
+KY,lost,0.6463270008010953
+KY,low,0.2784930712980782
+KY,mental health,0.14350071854022525
+KY,mental illness,0.0
+KY,mentally ill,0.0
+KY,miserable,0.0
+KY,never,0.012095207603364782
+KY,not well,0.0
+KY,nothing matters,0.0
+KY,numb,-0.23424600806236445
+KY,overwhelmed,0.0
+KY,pain,0.7698175300007868
+KY,ptsd,0.48766800233752455
+KY,sad,0.48766800233752455
+KY,self harm,0.5118332440225223
+KY,social anxiety,0.0
+KY,stressed,0.0
+KY,stressy depressy,0.0
+KY,struggle,0.4176130833751377
+KY,stuck,-0.2869622450093485
+KY,suey,0.0
+KY,suicidal,0.0
+KY,suicide,0.5118332440225223
+KY,tired,-0.026910104411312627
+KY,trauma,0.0
+KY,unalive,0.0
+KY,unaliving,0.0
+KY,unmotivated,0.0
+KY,unwanted,0.0
+KY,unwell,0.0
+KY,vulnerable,-0.29770235242490317
+KY,worse,-0.2977023524249031
+KY,worthless,0.0
+LA,aching,0.27444107475073637
+LA,always,0.22805429255451182
+LA,anxiety,0.27444107475073637
+LA,anymore,0.0
+LA,bpd,0.0
+LA,crippling,0.0
+LA,crying,0.0
+LA,cutting,0.27444107475073637
+LA,depression,0.5948867227255845
+LA,don't know why,0.0
+LA,down,0.26289653423725184
+LA,empty,0.0
+LA,grippy socks,0.0
+LA,help me,0.0
+LA,helpless,0.0
+LA,hopeless,0.0
+LA,hurt,0.34110845591634364
+LA,hurting,0.2744410747507363
+LA,i hate myself,0.0
+LA,insecure,0.0
+LA,intrusive,0.0
+LA,kill me,0.0
+LA,kill myself,0.0
+LA,kms,0.0
+LA,lonely,0.0
+LA,lost,0.0
+LA,low,-0.2556548349051254
+LA,mental health,0.0
+LA,mental illness,0.0
+LA,mentally ill,0.0
+LA,miserable,0.2744410747507363
+LA,never,0.5385518783945916
+LA,not well,0.0
+LA,nothing matters,0.0
+LA,numb,0.34212588556588325
+LA,overwhelmed,0.0
+LA,pain,0.10554210005271863
+LA,ptsd,0.0
+LA,sad,0.06155261818263773
+LA,self harm,0.0
+LA,social anxiety,0.0
+LA,stressed,0.0
+LA,stressy depressy,0.0
+LA,struggle,0.0
+LA,stuck,0.0
+LA,suey,0.0
+LA,suicidal,0.0
+LA,suicide,0.2744410747507363
+LA,tired,0.0
+LA,trauma,0.2744410747507363
+LA,unalive,0.0
+LA,unaliving,0.0
+LA,unmotivated,0.0
+LA,unwanted,0.0
+LA,unwell,0.0
+LA,vulnerable,0.0
+LA,worse,0.0
+LA,worthless,0.0
+MA,aching,0.746211579234937
+MA,always,0.6034927867141813
+MA,anxiety,0.0
+MA,anymore,0.931251872720784
+MA,bpd,-0.4439113673252919
+MA,crippling,0.0
+MA,crying,-0.4521167530429499
+MA,cutting,0.0
+MA,depression,0.0
+MA,don't know why,0.0
+MA,down,0.7715612002287419
+MA,empty,0.0
+MA,grippy socks,0.0
+MA,help me,0.9301805746145695
+MA,helpless,0.0
+MA,hopeless,0.0
+MA,hurt,0.6289130325701349
+MA,hurting,0.0
+MA,i hate myself,0.0
+MA,insecure,0.0
+MA,intrusive,0.0
+MA,kill me,0.0
+MA,kill myself,0.0
+MA,kms,0.0
+MA,lonely,0.0
+MA,lost,0.682711326697102
+MA,low,0.48010554516469356
+MA,mental health,0.6705104443961968
+MA,mental illness,0.0
+MA,mentally ill,0.0
+MA,miserable,-0.01047478531197768
+MA,never,0.7495857238494358
+MA,not well,0.0
+MA,nothing matters,0.0
+MA,numb,-0.16643971491679946
+MA,overwhelmed,0.0
+MA,pain,0.7096750607148403
+MA,ptsd,0.0
+MA,sad,0.38101889078536993
+MA,self harm,0.0
+MA,social anxiety,0.0
+MA,stressed,0.0
+MA,stressy depressy,0.0
+MA,struggle,0.6307727591778246
+MA,stuck,0.6227503416853655
+MA,suey,0.0
+MA,suicidal,0.0
+MA,suicide,0.34380566156986564
+MA,tired,0.692229192376031
+MA,trauma,0.0
+MA,unalive,0.0
+MA,unaliving,0.0
+MA,unmotivated,0.0
+MA,unwanted,0.0
+MA,unwell,0.0
+MA,vulnerable,0.0
+MA,worse,0.9322325336392185
+MA,worthless,0.0
+MD,aching,0.0
+MD,always,-0.3866220642759252
+MD,anxiety,0.0
+MD,anymore,-0.3233443293288719
+MD,bpd,0.0
+MD,crippling,0.0
+MD,crying,0.0
+MD,cutting,0.2667075837457891
+MD,depression,0.0
+MD,don't know why,0.0
+MD,down,-0.2735999647763334
+MD,empty,0.09148399927435918
+MD,grippy socks,0.0
+MD,help me,0.0
+MD,helpless,0.0
+MD,hopeless,0.0
+MD,hurt,0.7414264876330819
+MD,hurting,0.0
+MD,i hate myself,0.0
+MD,insecure,0.0
+MD,intrusive,0.0
+MD,kill me,0.0
+MD,kill myself,0.0
+MD,kms,0.0
+MD,lonely,0.3212848113076689
+MD,lost,-0.2854047162454739
+MD,low,0.48742459549338796
+MD,mental health,-0.32334432932887186
+MD,mental illness,0.0
+MD,mentally ill,0.0
+MD,miserable,0.0
+MD,never,-0.034884102170320966
+MD,not well,0.0
+MD,nothing matters,0.0
+MD,numb,0.15004840128034094
+MD,overwhelmed,0.2667075837457893
+MD,pain,0.2385318756515669
+MD,ptsd,0.0
+MD,sad,-0.23135596525011037
+MD,self harm,0.0
+MD,social anxiety,0.0
+MD,stressed,0.0
+MD,stressy depressy,0.0
+MD,struggle,0.7414264876330819
+MD,stuck,0.15380068994314036
+MD,suey,0.0
+MD,suicidal,-0.3532073406363154
+MD,suicide,0.3212848113076689
+MD,tired,-0.32334432932887186
+MD,trauma,0.0
+MD,unalive,0.0
+MD,unaliving,0.0
+MD,unmotivated,0.0
+MD,unwanted,0.0
+MD,unwell,0.0
+MD,vulnerable,0.3212848113076689
+MD,worse,0.0
+MD,worthless,0.0
+ME,aching,0.23968246967814946
+ME,always,0.6918189574844448
+ME,anxiety,0.5316390742745032
+ME,anymore,0.5028270100792585
+ME,bpd,0.0
+ME,crippling,0.0
+ME,crying,0.0
+ME,cutting,0.5978159046496769
+ME,depression,0.0
+ME,don't know why,0.0
+ME,down,0.5920799360651722
+ME,empty,0.6744625659282371
+ME,grippy socks,0.0
+ME,help me,0.0
+ME,helpless,0.0
+ME,hopeless,0.0
+ME,hurt,0.3632295047992702
+ME,hurting,0.0
+ME,i hate myself,0.0
+ME,insecure,0.0
+ME,intrusive,0.0
+ME,kill me,0.0
+ME,kill myself,0.0
+ME,kms,0.0
+ME,lonely,0.0
+ME,lost,0.5815895023193373
+ME,low,0.5631772634431473
+ME,mental health,0.23968246967814946
+ME,mental illness,0.0
+ME,mentally ill,0.0
+ME,miserable,0.2396824696781495
+ME,never,0.4903665935058387
+ME,not well,0.0
+ME,nothing matters,0.0
+ME,numb,0.4709993177983676
+ME,overwhelmed,0.0
+ME,pain,0.7174770447947106
+ME,ptsd,0.0
+ME,sad,0.827209048411036
+ME,self harm,0.0
+ME,social anxiety,0.0
+ME,stressed,0.0
+ME,stressy depressy,0.0
+ME,struggle,0.5316390742745033
+ME,stuck,0.0
+ME,suey,0.0
+ME,suicidal,0.0
+ME,suicide,0.23968246967814946
+ME,tired,0.5316390742745033
+ME,trauma,0.2396824696781495
+ME,unalive,0.0
+ME,unaliving,0.0
+ME,unmotivated,0.0
+ME,unwanted,0.5316390742745032
+ME,unwell,0.0
+ME,vulnerable,-0.32865972060275245
+ME,worse,0.0
+ME,worthless,0.0
+MI,aching,-0.18952426805452816
+MI,always,-0.1042334717768703
+MI,anxiety,0.0
+MI,anymore,0.5963479124129549
+MI,bpd,0.0
+MI,crippling,0.0
+MI,crying,0.41989428353460106
+MI,cutting,0.0
+MI,depression,0.0
+MI,don't know why,0.0
+MI,down,-0.14790076593827636
+MI,empty,0.0
+MI,grippy socks,0.0
+MI,help me,0.0
+MI,helpless,0.0
+MI,hopeless,0.0
+MI,hurt,-0.18952426805452816
+MI,hurting,0.0
+MI,i hate myself,0.0
+MI,insecure,0.0
+MI,intrusive,0.0
+MI,kill me,0.0
+MI,kill myself,0.0
+MI,kms,0.0
+MI,lonely,0.0
+MI,lost,-0.29466997035257825
+MI,low,-0.12269076077297697
+MI,mental health,0.0
+MI,mental illness,0.0
+MI,mentally ill,0.0
+MI,miserable,0.0
+MI,never,-0.12877976391125168
+MI,not well,0.0
+MI,nothing matters,0.0
+MI,numb,0.39462214542612484
+MI,overwhelmed,-0.18952426805452816
+MI,pain,0.2991111805651182
+MI,ptsd,0.0
+MI,sad,0.1766159570467938
+MI,self harm,0.0
+MI,social anxiety,0.0
+MI,stressed,0.0
+MI,stressy depressy,0.0
+MI,struggle,0.0
+MI,stuck,0.0
+MI,suey,0.0
+MI,suicidal,0.0
+MI,suicide,0.41989428353460106
+MI,tired,0.0
+MI,trauma,0.0
+MI,unalive,0.0
+MI,unaliving,0.0
+MI,unmotivated,0.0
+MI,unwanted,0.0
+MI,unwell,0.0
+MI,vulnerable,-0.18952426805452816
+MI,worse,0.168795065901319
+MI,worthless,0.0
+MN,aching,-0.22950802201382528
+MN,always,-0.2803034656310289
+MN,anxiety,-0.22950802201382525
+MN,anymore,0.0
+MN,bpd,0.0
+MN,crippling,0.0
+MN,crying,-0.22007002894145514
+MN,cutting,0.0
+MN,depression,0.0
+MN,don't know why,0.0
+MN,down,-0.087869501763382
+MN,empty,0.4338480625013303
+MN,grippy socks,0.0
+MN,help me,-0.22007002894145514
+MN,helpless,0.0
+MN,hopeless,0.0
+MN,hurt,-0.22950802201382525
+MN,hurting,-0.2295080220138253
+MN,i hate myself,0.0
+MN,insecure,0.0
+MN,intrusive,0.0
+MN,kill me,0.0
+MN,kill myself,0.0
+MN,kms,0.0
+MN,lonely,0.0
+MN,lost,-0.2295080220138253
+MN,low,-0.17410285055378766
+MN,mental health,0.0
+MN,mental illness,0.0
+MN,mentally ill,0.0
+MN,miserable,-0.22950802201382528
+MN,never,0.10109601382299256
+MN,not well,0.0
+MN,nothing matters,0.0
+MN,numb,0.4211492938145312
+MN,overwhelmed,0.43384806250133023
+MN,pain,0.14646297730609018
+MN,ptsd,0.0
+MN,sad,0.0
+MN,self harm,0.0
+MN,social anxiety,0.0
+MN,stressed,0.0
+MN,stressy depressy,0.0
+MN,struggle,0.0
+MN,stuck,-0.3672982693274957
+MN,suey,0.0
+MN,suicidal,0.0
+MN,suicide,-0.22950802201382528
+MN,tired,0.08871070173170231
+MN,trauma,0.0
+MN,unalive,0.0
+MN,unaliving,0.0
+MN,unmotivated,0.0
+MN,unwanted,0.0
+MN,unwell,0.0
+MN,vulnerable,0.0
+MN,worse,0.17252775231995376
+MN,worthless,0.0
+MO,aching,0.0
+MO,always,0.7381555208105919
+MO,anxiety,0.7032845490063587
+MO,anymore,0.5724596025059672
+MO,bpd,0.0
+MO,crippling,0.0
+MO,crying,0.5060830585961285
+MO,cutting,0.0
+MO,depression,0.39720312020250853
+MO,don't know why,0.0
+MO,down,0.6777880334827895
+MO,empty,0.0
+MO,grippy socks,0.0
+MO,help me,0.0
+MO,helpless,0.0
+MO,hopeless,0.39720312020250853
+MO,hurt,0.5060830585961285
+MO,hurting,0.0
+MO,i hate myself,0.0
+MO,insecure,0.0
+MO,intrusive,0.0
+MO,kill me,0.5060830585961285
+MO,kill myself,0.0
+MO,kms,0.0
+MO,lonely,0.0
+MO,lost,0.6841047255409716
+MO,low,-0.1930598605612856
+MO,mental health,0.681033723601708
+MO,mental illness,0.0
+MO,mentally ill,0.0
+MO,miserable,0.5060830585961285
+MO,never,0.8402005548978503
+MO,not well,0.0
+MO,nothing matters,0.0
+MO,numb,0.806152607620724
+MO,overwhelmed,0.5060830585961283
+MO,pain,0.45359725583785393
+MO,ptsd,0.39720312020250853
+MO,sad,0.7032539334849901
+MO,self harm,0.0
+MO,social anxiety,0.0
+MO,stressed,0.0
+MO,stressy depressy,0.0
+MO,struggle,0.39720312020250864
+MO,stuck,0.39720312020250853
+MO,suey,0.0
+MO,suicidal,0.39720312020250864
+MO,suicide,0.15231439988663098
+MO,tired,0.0
+MO,trauma,0.5060830585961283
+MO,unalive,0.0
+MO,unaliving,0.0
+MO,unmotivated,0.0
+MO,unwanted,0.39720312020250864
+MO,unwell,0.0
+MO,vulnerable,0.39720312020250864
+MO,worse,0.9580916638620357
+MO,worthless,0.0
+MS,aching,-0.26414741774504424
+MS,always,0.6227783424557408
+MS,anxiety,0.0
+MS,anymore,-0.16382337625897211
+MS,bpd,0.0
+MS,crippling,0.0
+MS,crying,0.0
+MS,cutting,0.0
+MS,depression,0.0
+MS,don't know why,0.4495384813866848
+MS,down,0.11915369034815122
+MS,empty,0.0
+MS,grippy socks,0.0
+MS,help me,0.0
+MS,helpless,0.0
+MS,hopeless,0.0982712029077869
+MS,hurt,0.4495384813866848
+MS,hurting,0.0
+MS,i hate myself,0.0
+MS,insecure,0.0
+MS,intrusive,0.0
+MS,kill me,0.0
+MS,kill myself,0.0
+MS,kms,0.0
+MS,lonely,0.0
+MS,lost,0.4718499296890761
+MS,low,0.4939537429624808
+MS,mental health,0.0
+MS,mental illness,0.0
+MS,mentally ill,0.0
+MS,miserable,0.0
+MS,never,0.8392885795831124
+MS,not well,0.0
+MS,nothing matters,0.0
+MS,numb,0.7506247200828831
+MS,overwhelmed,0.0
+MS,pain,0.5125173868207672
+MS,ptsd,0.0
+MS,sad,0.8842400306167368
+MS,self harm,0.0
+MS,social anxiety,0.0
+MS,stressed,0.0
+MS,stressy depressy,0.0
+MS,struggle,-0.31990412861471057
+MS,stuck,0.750624720082883
+MS,suey,0.0
+MS,suicidal,0.0
+MS,suicide,0.0982712029077869
+MS,tired,0.750624720082883
+MS,trauma,0.0
+MS,unalive,0.0
+MS,unaliving,0.0
+MS,unmotivated,0.0
+MS,unwanted,0.0
+MS,unwell,0.0
+MS,vulnerable,0.0
+MS,worse,0.7506247200828831
+MS,worthless,0.0
+MT,aching,0.4934631550204866
+MT,always,0.48475199217294807
+MT,anxiety,0.0
+MT,anymore,0.0
+MT,bpd,0.0
+MT,crippling,0.0
+MT,crying,0.0
+MT,cutting,0.0
+MT,depression,0.0
+MT,don't know why,0.0
+MT,down,0.3702620025231713
+MT,empty,0.22897294941991947
+MT,grippy socks,0.0
+MT,help me,0.0
+MT,helpless,0.0
+MT,hopeless,0.0
+MT,hurt,0.0
+MT,hurting,0.0
+MT,i hate myself,0.0
+MT,insecure,0.0
+MT,intrusive,0.0
+MT,kill me,0.0
+MT,kill myself,0.0
+MT,kms,0.0
+MT,lonely,-0.2841380494451806
+MT,lost,0.14751663220971145
+MT,low,0.6705402650269305
+MT,mental health,0.0
+MT,mental illness,0.0
+MT,mentally ill,0.0
+MT,miserable,0.0
+MT,never,0.8031613543156915
+MT,not well,0.0
+MT,nothing matters,0.0
+MT,numb,0.22897294941991947
+MT,overwhelmed,0.0
+MT,pain,0.2794255132767181
+MT,ptsd,0.0
+MT,sad,-0.368774915237362
+MT,self harm,0.0
+MT,social anxiety,0.0
+MT,stressed,0.0
+MT,stressy depressy,0.0
+MT,struggle,0.0
+MT,stuck,0.0
+MT,suey,0.0
+MT,suicidal,0.0
+MT,suicide,0.22897294941991947
+MT,tired,0.0
+MT,trauma,0.0
+MT,unalive,0.0
+MT,unaliving,0.0
+MT,unmotivated,0.0
+MT,unwanted,0.0
+MT,unwell,0.0
+MT,vulnerable,0.0
+MT,worse,0.2289729494199195
+MT,worthless,0.0
+NC,aching,0.544436008194605
+NC,always,0.7683398792630488
+NC,anxiety,0.0
+NC,anymore,0.679618883559912
+NC,bpd,0.0
+NC,crippling,0.0
+NC,crying,0.4065778661862614
+NC,cutting,0.6891441119065048
+NC,depression,0.40657786618626146
+NC,don't know why,0.0
+NC,down,0.6525439815405549
+NC,empty,0.0
+NC,grippy socks,0.0
+NC,help me,0.0
+NC,helpless,0.0
+NC,hopeless,0.0
+NC,hurt,0.5050479676207926
+NC,hurting,0.0
+NC,i hate myself,0.0
+NC,insecure,0.5050479676207926
+NC,intrusive,0.0
+NC,kill me,0.0
+NC,kill myself,0.0
+NC,kms,0.0
+NC,lonely,0.0
+NC,lost,0.48308901555672557
+NC,low,0.656784870641954
+NC,mental health,0.4065778661862614
+NC,mental illness,0.0
+NC,mentally ill,0.0
+NC,miserable,0.0
+NC,never,0.6690258509634178
+NC,not well,0.0
+NC,nothing matters,0.0
+NC,numb,0.35959321121256554
+NC,overwhelmed,-0.2682014604861572
+NC,pain,0.7991649242444935
+NC,ptsd,0.0
+NC,sad,0.4365449962127788
+NC,self harm,0.0
+NC,social anxiety,0.0
+NC,stressed,0.0
+NC,stressy depressy,0.0
+NC,struggle,0.28035407471017293
+NC,stuck,-0.2682014604861572
+NC,suey,0.0
+NC,suicidal,0.0
+NC,suicide,0.6636222160185075
+NC,tired,0.7613720504508558
+NC,trauma,0.0
+NC,unalive,0.0
+NC,unaliving,0.0
+NC,unmotivated,0.0
+NC,unwanted,0.0
+NC,unwell,0.0
+NC,vulnerable,0.0
+NC,worse,-0.2682014604861572
+NC,worthless,0.0
+ND,aching,0.0
+ND,always,0.3966575041086082
+ND,anxiety,0.3843556263717306
+ND,anymore,0.0
+ND,bpd,0.0
+ND,crippling,0.0
+ND,crying,0.5384784270455434
+ND,cutting,0.0
+ND,depression,0.0
+ND,don't know why,0.0
+ND,down,0.7731919487730327
+ND,empty,-0.23213557632352047
+ND,grippy socks,0.0
+ND,help me,0.5384784270455434
+ND,helpless,0.0
+ND,hopeless,0.5384784270455434
+ND,hurt,0.46712127478548526
+ND,hurting,-0.23213557632352047
+ND,i hate myself,0.0
+ND,insecure,0.0
+ND,intrusive,0.0
+ND,kill me,0.0
+ND,kill myself,0.0
+ND,kms,0.0
+ND,lonely,0.0
+ND,lost,0.5641655604911789
+ND,low,-0.23392780535432792
+ND,mental health,0.5384784270455435
+ND,mental illness,0.0
+ND,mentally ill,0.5384784270455434
+ND,miserable,0.5384784270455434
+ND,never,0.8759818121881259
+ND,not well,0.0
+ND,nothing matters,0.0
+ND,numb,0.6722736389555751
+ND,overwhelmed,0.0
+ND,pain,0.2211513401853205
+ND,ptsd,0.0
+ND,sad,0.6940168938168874
+ND,self harm,0.0
+ND,social anxiety,0.0
+ND,stressed,0.0
+ND,stressy depressy,0.0
+ND,struggle,0.0
+ND,stuck,0.3843556263717306
+ND,suey,0.0
+ND,suicidal,0.0
+ND,suicide,0.6334358672095632
+ND,tired,0.5641655604911788
+ND,trauma,0.0
+ND,unalive,0.0
+ND,unaliving,0.0
+ND,unmotivated,0.0
+ND,unwanted,0.5384784270455433
+ND,unwell,0.0
+ND,vulnerable,0.5384784270455435
+ND,worse,0.26150400822556064
+ND,worthless,0.0
+NE,aching,0.5374723662261984
+NE,always,0.4308784583478772
+NE,anxiety,0.0
+NE,anymore,0.40105285342451075
+NE,bpd,0.0
+NE,crippling,0.0
+NE,crying,0.0
+NE,cutting,0.0
+NE,depression,0.0
+NE,don't know why,0.0
+NE,down,0.6205938296647555
+NE,empty,0.0
+NE,grippy socks,0.0
+NE,help me,0.0
+NE,helpless,0.0
+NE,hopeless,0.0
+NE,hurt,0.6016116048752466
+NE,hurting,0.0
+NE,i hate myself,0.0
+NE,insecure,0.4010528534245107
+NE,intrusive,0.0
+NE,kill me,0.0
+NE,kill myself,0.0
+NE,kms,0.0
+NE,lonely,0.0
+NE,lost,0.5295038349269653
+NE,low,0.6059878225297214
+NE,mental health,0.40105285342451075
+NE,mental illness,0.0
+NE,mentally ill,0.0
+NE,miserable,0.0
+NE,never,0.6059490356560044
+NE,not well,0.0
+NE,nothing matters,0.0
+NE,numb,0.40105285342451064
+NE,overwhelmed,0.0
+NE,pain,0.48064254024451003
+NE,ptsd,0.5956645155807517
+NE,sad,0.4656726226463627
+NE,self harm,0.0
+NE,social anxiety,0.0
+NE,stressed,0.0
+NE,stressy depressy,0.0
+NE,struggle,0.4010528534245107
+NE,stuck,0.22635374349237644
+NE,suey,0.0
+NE,suicidal,0.0
+NE,suicide,0.4010528534245107
+NE,tired,0.0
+NE,trauma,0.0
+NE,unalive,0.0
+NE,unaliving,0.0
+NE,unmotivated,0.0
+NE,unwanted,0.0
+NE,unwell,0.0
+NE,vulnerable,0.0
+NE,worse,0.6686763735699728
+NE,worthless,0.0
+NH,aching,0.0
+NH,always,0.8768969398615959
+NH,anxiety,0.0
+NH,anymore,0.5138307621703689
+NH,bpd,0.0
+NH,crippling,0.0
+NH,crying,0.0
+NH,cutting,0.3458134368240026
+NH,depression,0.0
+NH,don't know why,0.0
+NH,down,0.8664086041848776
+NH,empty,0.0
+NH,grippy socks,0.0
+NH,help me,0.0
+NH,helpless,0.0
+NH,hopeless,0.0
+NH,hurt,0.3458134368240027
+NH,hurting,0.3458134368240027
+NH,i hate myself,0.0
+NH,insecure,0.0
+NH,intrusive,0.0
+NH,kill me,0.0
+NH,kill myself,0.0
+NH,kms,0.0
+NH,lonely,0.0
+NH,lost,0.5138307621703689
+NH,low,0.5330635034387764
+NH,mental health,0.0
+NH,mental illness,0.0
+NH,mentally ill,0.0
+NH,miserable,0.0
+NH,never,0.8623089718129096
+NH,not well,0.5138307621703689
+NH,nothing matters,0.0
+NH,numb,0.660163221042342
+NH,overwhelmed,0.0
+NH,pain,0.6051518527473879
+NH,ptsd,0.0
+NH,sad,0.0
+NH,self harm,0.0
+NH,social anxiety,0.0
+NH,stressed,0.0
+NH,stressy depressy,0.0
+NH,struggle,0.0
+NH,stuck,0.0
+NH,suey,0.0
+NH,suicidal,0.0
+NH,suicide,0.0
+NH,tired,0.14611665039686403
+NH,trauma,0.0
+NH,unalive,0.0
+NH,unaliving,0.0
+NH,unmotivated,0.0
+NH,unwanted,0.0
+NH,unwell,0.0
+NH,vulnerable,0.0
+NH,worse,0.34581343682400256
+NH,worthless,0.0
+NJ,aching,-0.22109187180343462
+NJ,always,0.5580204910111497
+NJ,anxiety,-0.23173590964816676
+NJ,anymore,0.7037045456726131
+NJ,bpd,0.0
+NJ,crippling,-0.31535172582118215
+NJ,crying,0.0
+NJ,cutting,0.0
+NJ,depression,0.0
+NJ,don't know why,0.0
+NJ,down,0.09507573170206346
+NJ,empty,-0.009264262466964447
+NJ,grippy socks,0.0
+NJ,help me,0.0
+NJ,helpless,0.0
+NJ,hopeless,0.0
+NJ,hurt,-0.22109187180343468
+NJ,hurting,0.0
+NJ,i hate myself,0.0
+NJ,insecure,0.0
+NJ,intrusive,0.0
+NJ,kill me,0.0
+NJ,kill myself,0.0
+NJ,kms,0.0
+NJ,lonely,0.0
+NJ,lost,0.5429166324617675
+NJ,low,-0.1592045506746067
+NJ,mental health,-0.22109187180343468
+NJ,mental illness,0.0
+NJ,mentally ill,0.0
+NJ,miserable,0.0
+NJ,never,0.3483672412580593
+NJ,not well,0.0
+NJ,nothing matters,0.0
+NJ,numb,0.6329022323761119
+NJ,overwhelmed,0.1693062441435536
+NJ,pain,0.5957157206505829
+NJ,ptsd,0.5285525078326953
+NJ,sad,0.09510043431931563
+NJ,self harm,0.0
+NJ,social anxiety,0.0
+NJ,stressed,0.0
+NJ,stressy depressy,0.0
+NJ,struggle,-0.23173590964816676
+NJ,stuck,-0.23173590964816676
+NJ,suey,0.0
+NJ,suicidal,0.0
+NJ,suicide,0.0
+NJ,tired,0.7071580941899798
+NJ,trauma,0.0
+NJ,unalive,0.0
+NJ,unaliving,0.0
+NJ,unmotivated,0.0
+NJ,unwanted,0.0
+NJ,unwell,0.0
+NJ,vulnerable,0.0
+NJ,worse,0.3188285935580793
+NJ,worthless,0.0
+NM,aching,0.49371345536214745
+NM,always,0.5532995620437859
+NM,anxiety,0.0
+NM,anymore,0.49371345536214734
+NM,bpd,0.0
+NM,crippling,0.0
+NM,crying,0.0
+NM,cutting,0.0
+NM,depression,0.0
+NM,don't know why,0.0
+NM,down,0.8012329210331208
+NM,empty,-0.3277235867490117
+NM,grippy socks,0.0
+NM,help me,0.4937134553621473
+NM,helpless,0.0
+NM,hopeless,0.0
+NM,hurt,0.0
+NM,hurting,0.0
+NM,i hate myself,0.0
+NM,insecure,0.0
+NM,intrusive,0.0
+NM,kill me,0.0
+NM,kill myself,0.0
+NM,kms,0.0
+NM,lonely,0.0
+NM,lost,0.053707901534399825
+NM,low,0.6943289096435675
+NM,mental health,0.0
+NM,mental illness,0.0
+NM,mentally ill,0.0
+NM,miserable,0.0
+NM,never,0.8537148098686747
+NM,not well,0.0
+NM,nothing matters,0.0
+NM,numb,0.35326048961257095
+NM,overwhelmed,0.0
+NM,pain,0.5136111739780884
+NM,ptsd,0.0
+NM,sad,0.22812374814121805
+NM,self harm,0.0
+NM,social anxiety,0.0
+NM,stressed,0.0
+NM,stressy depressy,0.0
+NM,struggle,0.0
+NM,stuck,0.0
+NM,suey,0.0
+NM,suicidal,0.0
+NM,suicide,0.5532995620437858
+NM,tired,0.0
+NM,trauma,0.0
+NM,unalive,0.0
+NM,unaliving,0.0
+NM,unmotivated,0.0
+NM,unwanted,0.0
+NM,unwell,0.0
+NM,vulnerable,0.0
+NM,worse,0.49371345536214734
+NM,worthless,0.0
+NV,aching,0.30424593533045197
+NV,always,0.6315009783478501
+NV,anxiety,0.0
+NV,anymore,0.0
+NV,bpd,0.0
+NV,crippling,0.0
+NV,crying,0.30424593533045186
+NV,cutting,0.0
+NV,depression,-0.07349934960091645
+NV,don't know why,0.0
+NV,down,0.7144318606791985
+NV,empty,0.40555203796821093
+NV,grippy socks,0.0
+NV,help me,0.3042459353304519
+NV,helpless,0.0
+NV,hopeless,0.0
+NV,hurt,-0.40477937483094917
+NV,hurting,0.0
+NV,i hate myself,0.0
+NV,insecure,0.0
+NV,intrusive,0.0
+NV,kill me,0.0
+NV,kill myself,0.0
+NV,kms,0.0
+NV,lonely,0.0
+NV,lost,0.38802272375033353
+NV,low,0.6645825476590649
+NV,mental health,0.8815442153183314
+NV,mental illness,0.0
+NV,mentally ill,0.0
+NV,miserable,0.0
+NV,never,0.7214757897426184
+NV,not well,0.0
+NV,nothing matters,0.0
+NV,numb,0.6289095450368368
+NV,overwhelmed,0.4629829450680791
+NV,pain,0.5562470741616723
+NV,ptsd,0.0
+NV,sad,-0.019330236317940598
+NV,self harm,0.0
+NV,social anxiety,0.0
+NV,stressed,0.5529339172527344
+NV,stressy depressy,0.0
+NV,struggle,0.30424593533045197
+NV,stuck,0.5529339172527346
+NV,suey,0.0
+NV,suicidal,0.0
+NV,suicide,0.30424593533045197
+NV,tired,0.5529339172527344
+NV,trauma,0.0
+NV,unalive,0.0
+NV,unaliving,0.0
+NV,unmotivated,0.0
+NV,unwanted,0.0
+NV,unwell,0.0
+NV,vulnerable,0.0
+NV,worse,0.6014228097415241
+NV,worthless,0.0
+NY,aching,-0.3429788547233276
+NY,always,0.5026269885859735
+NY,anxiety,0.0
+NY,anymore,0.0
+NY,bpd,0.0
+NY,crippling,0.0
+NY,crying,0.0
+NY,cutting,-0.4938476096229282
+NY,depression,0.0
+NY,don't know why,0.0
+NY,down,0.558792703979196
+NY,empty,0.0
+NY,grippy socks,0.0
+NY,help me,0.0
+NY,helpless,0.0
+NY,hopeless,0.0
+NY,hurt,0.33684133837564706
+NY,hurting,0.0
+NY,i hate myself,0.0
+NY,insecure,0.0
+NY,intrusive,0.0
+NY,kill me,0.0
+NY,kill myself,0.0
+NY,kms,0.0
+NY,lonely,0.0
+NY,lost,0.14560120064365514
+NY,low,-0.3449417429818814
+NY,mental health,0.3368413383756471
+NY,mental illness,0.0
+NY,mentally ill,0.5011101582694514
+NY,miserable,0.0
+NY,never,0.26847092299098135
+NY,not well,0.0
+NY,nothing matters,0.0
+NY,numb,0.0071155074966960915
+NY,overwhelmed,0.0
+NY,pain,0.050215990162505914
+NY,ptsd,0.0
+NY,sad,-0.14023262094877353
+NY,self harm,0.0
+NY,social anxiety,0.0
+NY,stressed,0.5592360483857207
+NY,stressy depressy,0.0
+NY,struggle,0.25672923922091384
+NY,stuck,0.0
+NY,suey,0.0
+NY,suicidal,0.0
+NY,suicide,-0.33034279165457353
+NY,tired,0.3368413383756471
+NY,trauma,0.0
+NY,unalive,0.0
+NY,unaliving,0.0
+NY,unmotivated,0.0
+NY,unwanted,0.0
+NY,unwell,0.0
+NY,vulnerable,0.5011101582694515
+NY,worse,0.0
+NY,worthless,0.0
+OH,aching,0.0
+OH,always,0.5225471873761648
+OH,anxiety,0.0
+OH,anymore,0.0
+OH,bpd,0.0
+OH,crippling,0.0
+OH,crying,0.44465996845147865
+OH,cutting,0.0
+OH,depression,0.44465996845147865
+OH,don't know why,0.0
+OH,down,0.495169848695833
+OH,empty,0.44465996845147865
+OH,grippy socks,0.0
+OH,help me,0.0
+OH,helpless,0.0
+OH,hopeless,0.0
+OH,hurt,0.44465996845147865
+OH,hurting,0.4446599684514787
+OH,i hate myself,0.0
+OH,insecure,0.0
+OH,intrusive,0.0
+OH,kill me,0.0
+OH,kill myself,0.0
+OH,kms,0.0
+OH,lonely,0.0
+OH,lost,0.3382220371614508
+OH,low,-0.129111514669223
+OH,mental health,0.44465996845147865
+OH,mental illness,0.0
+OH,mentally ill,0.0
+OH,miserable,0.0
+OH,never,0.6423926220172612
+OH,not well,0.0
+OH,nothing matters,0.0
+OH,numb,0.1764278373515346
+OH,overwhelmed,0.4446599684514786
+OH,pain,0.7032040972200905
+OH,ptsd,0.4446599684514787
+OH,sad,0.4446599684514786
+OH,self harm,0.0
+OH,social anxiety,0.0
+OH,stressed,0.0
+OH,stressy depressy,0.0
+OH,struggle,0.4874010570770928
+OH,stuck,0.0
+OH,suey,0.0
+OH,suicidal,0.0
+OH,suicide,0.44465996845147865
+OH,tired,0.44465996845147865
+OH,trauma,0.6987390032660221
+OH,unalive,0.0
+OH,unaliving,0.0
+OH,unmotivated,0.0
+OH,unwanted,0.44465996845147865
+OH,unwell,0.0
+OH,vulnerable,0.0
+OH,worse,0.44465996845147865
+OH,worthless,0.0
+OK,aching,0.8583545064126136
+OK,always,-0.3683679499631539
+OK,anxiety,0.0
+OK,anymore,0.12442669517315419
+OK,bpd,0.0
+OK,crippling,0.0
+OK,crying,0.0
+OK,cutting,0.0
+OK,depression,0.0
+OK,don't know why,0.0
+OK,down,0.09694939930766014
+OK,empty,0.6068549409807673
+OK,grippy socks,0.0
+OK,help me,0.3155127751471841
+OK,helpless,0.5949151994713732
+OK,hopeless,0.5408173833918217
+OK,hurt,0.0
+OK,hurting,0.0
+OK,i hate myself,0.0
+OK,insecure,0.0
+OK,intrusive,0.0
+OK,kill me,0.0
+OK,kill myself,0.0
+OK,kms,0.0
+OK,lonely,0.0
+OK,lost,0.5442094897641566
+OK,low,0.25257174165380997
+OK,mental health,0.0
+OK,mental illness,0.0
+OK,mentally ill,0.0
+OK,miserable,0.0
+OK,never,0.21043573315318675
+OK,not well,0.0
+OK,nothing matters,0.0
+OK,numb,0.5311719536779881
+OK,overwhelmed,0.0
+OK,pain,-0.08248446077445826
+OK,ptsd,0.0
+OK,sad,0.8640982101874652
+OK,self harm,0.0
+OK,social anxiety,0.0
+OK,stressed,0.0
+OK,stressy depressy,0.0
+OK,struggle,0.0
+OK,stuck,0.6068549409807672
+OK,suey,0.0
+OK,suicidal,0.0
+OK,suicide,0.0
+OK,tired,0.0686108382642471
+OK,trauma,0.0
+OK,unalive,0.0
+OK,unaliving,0.0
+OK,unmotivated,0.0
+OK,unwanted,0.5302640586927819
+OK,unwell,0.0
+OK,vulnerable,0.2187721119384367
+OK,worse,-0.052786014704190184
+OK,worthless,0.0
+OR,aching,0.0
+OR,always,0.5922834472220967
+OR,anxiety,0.0
+OR,anymore,0.14372929760657627
+OR,bpd,0.0
+OR,crippling,0.0
+OR,crying,0.4973193100113284
+OR,cutting,0.0
+OR,depression,-0.3379482903692428
+OR,don't know why,0.0
+OR,down,0.1483353351473222
+OR,empty,0.0
+OR,grippy socks,0.0
+OR,help me,0.5202033538573715
+OR,helpless,0.0
+OR,hopeless,0.0
+OR,hurt,-0.33794829036924284
+OR,hurting,0.0
+OR,i hate myself,0.0
+OR,insecure,0.0
+OR,intrusive,0.0
+OR,kill me,0.0
+OR,kill myself,0.0
+OR,kms,0.0
+OR,lonely,0.0
+OR,lost,0.32212227756673956
+OR,low,0.1747494826934754
+OR,mental health,0.0
+OR,mental illness,0.0
+OR,mentally ill,0.0
+OR,miserable,0.0
+OR,never,0.8919408537234009
+OR,not well,0.0
+OR,nothing matters,0.0
+OR,numb,0.6983719674680051
+OR,overwhelmed,0.0
+OR,pain,0.28560570158345444
+OR,ptsd,0.4973193100113283
+OR,sad,0.0620410734764518
+OR,self harm,0.0
+OR,social anxiety,0.0
+OR,stressed,0.0
+OR,stressy depressy,0.0
+OR,struggle,0.0
+OR,stuck,0.07439062486691853
+OR,suey,0.0
+OR,suicidal,0.0
+OR,suicide,0.5202033538573714
+OR,tired,0.6120772228612891
+OR,trauma,0.0
+OR,unalive,0.0
+OR,unaliving,0.0
+OR,unmotivated,0.0
+OR,unwanted,0.0
+OR,unwell,0.0
+OR,vulnerable,0.0
+OR,worse,-0.13193970794898585
+OR,worthless,0.0
+PA,aching,0.0
+PA,always,0.9054274275103692
+PA,anxiety,0.514000977644871
+PA,anymore,0.3576720991758266
+PA,bpd,0.0
+PA,crippling,0.0
+PA,crying,0.0
+PA,cutting,-0.35924236692830575
+PA,depression,0.3576720991758266
+PA,don't know why,0.0
+PA,down,0.6712697797891642
+PA,empty,-0.35924236692830586
+PA,grippy socks,0.0
+PA,help me,0.0
+PA,helpless,0.0
+PA,hopeless,0.0
+PA,hurt,0.25133401860308463
+PA,hurting,0.0
+PA,i hate myself,0.0
+PA,insecure,0.0
+PA,intrusive,0.0
+PA,kill me,0.0
+PA,kill myself,0.0
+PA,kms,0.0
+PA,lonely,0.0
+PA,lost,0.06325584414832051
+PA,low,-0.248459870312682
+PA,mental health,0.0
+PA,mental illness,0.0
+PA,mentally ill,0.0
+PA,miserable,0.0
+PA,never,0.7002371372642457
+PA,not well,0.0
+PA,nothing matters,0.0
+PA,numb,0.8107487055916007
+PA,overwhelmed,0.0
+PA,pain,0.5140009776448708
+PA,ptsd,0.0
+PA,sad,0.0
+PA,self harm,0.0
+PA,social anxiety,0.0
+PA,stressed,0.0
+PA,stressy depressy,0.0
+PA,struggle,0.3576720991758266
+PA,stuck,0.6681948855397479
+PA,suey,0.0
+PA,suicidal,0.0
+PA,suicide,0.0
+PA,tired,0.2849873511085771
+PA,trauma,0.0
+PA,unalive,0.0
+PA,unaliving,0.0
+PA,unmotivated,0.0
+PA,unwanted,0.0
+PA,unwell,0.0
+PA,vulnerable,0.0
+PA,worse,-0.04096271686372919
+PA,worthless,0.0
+RI,aching,0.5855351807991255
+RI,always,0.34353492969165855
+RI,anxiety,0.5155725094294907
+RI,anymore,0.0
+RI,bpd,0.0
+RI,crippling,0.0
+RI,crying,0.34978770957760497
+RI,cutting,0.0
+RI,depression,0.0
+RI,don't know why,0.0
+RI,down,0.12245451208715445
+RI,empty,0.0
+RI,grippy socks,0.0
+RI,help me,-0.4281255820350895
+RI,helpless,0.0
+RI,hopeless,0.0
+RI,hurt,0.5283251863411742
+RI,hurting,0.0
+RI,i hate myself,0.0
+RI,insecure,0.0
+RI,intrusive,0.0
+RI,kill me,0.0
+RI,kill myself,0.0
+RI,kms,0.0
+RI,lonely,0.0
+RI,lost,0.4060384905256231
+RI,low,0.2076208181350861
+RI,mental health,0.0
+RI,mental illness,0.0
+RI,mentally ill,0.0
+RI,miserable,0.0
+RI,never,0.6863198130193889
+RI,not well,0.0
+RI,nothing matters,0.0
+RI,numb,-0.236340634034114
+RI,overwhelmed,0.0
+RI,pain,0.5843025243445048
+RI,ptsd,0.0
+RI,sad,0.5556317484994755
+RI,self harm,0.0
+RI,social anxiety,0.0
+RI,stressed,0.0
+RI,stressy depressy,0.0
+RI,struggle,0.5155725094294907
+RI,stuck,0.1318911385419453
+RI,suey,0.0
+RI,suicidal,0.0
+RI,suicide,0.0
+RI,tired,-0.4281255820350894
+RI,trauma,0.0
+RI,unalive,0.0
+RI,unaliving,0.0
+RI,unmotivated,0.0
+RI,unwanted,0.0
+RI,unwell,0.0
+RI,vulnerable,-0.4281255820350895
+RI,worse,0.28790348394325277
+RI,worthless,0.0
+SC,aching,0.3975355689148543
+SC,always,0.7701373682217548
+SC,anxiety,0.0
+SC,anymore,0.6448192060467406
+SC,bpd,0.0
+SC,crippling,0.0
+SC,crying,0.0
+SC,cutting,0.0
+SC,depression,0.0
+SC,don't know why,0.514457795066282
+SC,down,0.8624586592806165
+SC,empty,0.0
+SC,grippy socks,0.0
+SC,help me,0.39753556891485436
+SC,helpless,0.0
+SC,hopeless,0.0
+SC,hurt,0.0
+SC,hurting,0.0
+SC,i hate myself,0.0
+SC,insecure,0.0
+SC,intrusive,0.0
+SC,kill me,0.0
+SC,kill myself,0.0
+SC,kms,0.0
+SC,lonely,0.0
+SC,lost,0.5144577950662821
+SC,low,0.6657254448060481
+SC,mental health,0.0
+SC,mental illness,0.0
+SC,mentally ill,0.0
+SC,miserable,0.0
+SC,never,0.9333686831610235
+SC,not well,0.0
+SC,nothing matters,0.0
+SC,numb,0.7640519216735241
+SC,overwhelmed,0.4969194611435679
+SC,pain,0.7095004014277356
+SC,ptsd,0.0
+SC,sad,0.16816109374484062
+SC,self harm,0.0
+SC,social anxiety,0.0
+SC,stressed,0.0
+SC,stressy depressy,0.0
+SC,struggle,0.39753556891485425
+SC,stuck,0.39753556891485436
+SC,suey,0.0
+SC,suicidal,0.0
+SC,suicide,0.4969194611435678
+SC,tired,0.8512657573439555
+SC,trauma,0.0
+SC,unalive,0.0
+SC,unaliving,0.0
+SC,unmotivated,0.0
+SC,unwanted,0.4969194611435679
+SC,unwell,0.0
+SC,vulnerable,0.0
+SC,worse,0.6990502266023031
+SC,worthless,0.0
+SD,aching,0.0
+SD,always,0.5105895517738683
+SD,anxiety,0.0
+SD,anymore,0.0
+SD,bpd,0.0
+SD,crippling,0.0
+SD,crying,0.0
+SD,cutting,0.0
+SD,depression,0.0
+SD,don't know why,0.0
+SD,down,0.7302201652824714
+SD,empty,0.5105895517738682
+SD,grippy socks,0.0
+SD,help me,0.5105895517738683
+SD,helpless,0.0
+SD,hopeless,0.0
+SD,hurt,0.8103674069959135
+SD,hurting,0.5105895517738681
+SD,i hate myself,0.0
+SD,insecure,0.0
+SD,intrusive,0.0
+SD,kill me,0.0
+SD,kill myself,0.0
+SD,kms,0.0
+SD,lonely,0.0
+SD,lost,0.5184899835872158
+SD,low,-0.31074013438672626
+SD,mental health,0.5105895517738681
+SD,mental illness,0.0
+SD,mentally ill,0.0
+SD,miserable,0.0
+SD,never,0.8680573647695221
+SD,not well,0.0
+SD,nothing matters,0.0
+SD,numb,0.40773772316630236
+SD,overwhelmed,-0.37929509560344493
+SD,pain,0.8741610042892456
+SD,ptsd,0.0
+SD,sad,0.5614207999814784
+SD,self harm,0.0
+SD,social anxiety,0.0
+SD,stressed,0.0
+SD,stressy depressy,0.0
+SD,struggle,0.5105895517738681
+SD,stuck,0.0
+SD,suey,0.0
+SD,suicidal,0.5397660975895177
+SD,suicide,0.5105895517738682
+SD,tired,0.6615594122463411
+SD,trauma,0.0
+SD,unalive,0.0
+SD,unaliving,0.0
+SD,unmotivated,0.0
+SD,unwanted,0.0
+SD,unwell,0.0
+SD,vulnerable,0.0
+SD,worse,-0.37929509560344493
+SD,worthless,0.5397660975895178
+TN,aching,0.5474463291721797
+TN,always,0.6601171004149109
+TN,anxiety,0.0
+TN,anymore,0.0
+TN,bpd,0.0
+TN,crippling,0.0
+TN,crying,0.0
+TN,cutting,0.5474463291721797
+TN,depression,0.0
+TN,don't know why,0.0
+TN,down,0.5737916050038585
+TN,empty,0.0
+TN,grippy socks,0.0
+TN,help me,0.0
+TN,helpless,0.0
+TN,hopeless,0.0
+TN,hurt,0.3250191165984289
+TN,hurting,-0.35747008763193683
+TN,i hate myself,0.0
+TN,insecure,0.0
+TN,intrusive,0.0
+TN,kill me,0.0
+TN,kill myself,0.0
+TN,kms,0.0
+TN,lonely,0.0
+TN,lost,0.7020381281119761
+TN,low,0.6399696845646529
+TN,mental health,0.0
+TN,mental illness,0.0
+TN,mentally ill,0.0
+TN,miserable,0.0
+TN,never,0.5625297287699343
+TN,not well,0.0
+TN,nothing matters,0.0
+TN,numb,-0.3574700876319367
+TN,overwhelmed,0.0
+TN,pain,0.24681580828986754
+TN,ptsd,0.0
+TN,sad,0.4494383700906901
+TN,self harm,0.0
+TN,social anxiety,0.0
+TN,stressed,0.0
+TN,stressy depressy,0.0
+TN,struggle,0.0
+TN,stuck,0.0
+TN,suey,0.0
+TN,suicidal,0.0
+TN,suicide,0.0
+TN,tired,0.40318429171065406
+TN,trauma,0.0
+TN,unalive,0.0
+TN,unaliving,0.0
+TN,unmotivated,0.0
+TN,unwanted,0.0
+TN,unwell,0.0
+TN,vulnerable,0.40318429171065406
+TN,worse,0.40318429171065406
+TN,worthless,0.0
+TX,aching,0.4849863264451681
+TX,always,0.44097059727913784
+TX,anxiety,0.5435191589471711
+TX,anymore,0.375800081201047
+TX,bpd,0.0
+TX,crippling,-0.3434783797370288
+TX,crying,0.0
+TX,cutting,0.5435191589471711
+TX,depression,0.0
+TX,don't know why,0.375800081201047
+TX,down,0.6990707614342396
+TX,empty,0.0
+TX,grippy socks,0.0
+TX,help me,0.0
+TX,helpless,0.0
+TX,hopeless,0.0
+TX,hurt,0.6800013399560044
+TX,hurting,0.5435191589471712
+TX,i hate myself,0.0
+TX,insecure,0.37580008120104696
+TX,intrusive,0.0
+TX,kill me,0.0
+TX,kill myself,0.0
+TX,kms,0.0
+TX,lonely,0.0
+TX,lost,0.6035930076701932
+TX,low,0.6928295714465279
+TX,mental health,0.4849863264451679
+TX,mental illness,0.0
+TX,mentally ill,0.0
+TX,miserable,0.0
+TX,never,0.6381929291712813
+TX,not well,0.0
+TX,nothing matters,0.0
+TX,numb,0.375800081201047
+TX,overwhelmed,0.5435191589471711
+TX,pain,0.8926137477872071
+TX,ptsd,0.543519158947171
+TX,sad,0.6001254211885121
+TX,self harm,0.0
+TX,social anxiety,0.0
+TX,stressed,0.4849863264451679
+TX,stressy depressy,0.0
+TX,struggle,0.37580008120104696
+TX,stuck,0.0
+TX,suey,0.0
+TX,suicidal,-0.3727447959880304
+TX,suicide,0.0
+TX,tired,0.5448928117460079
+TX,trauma,0.0
+TX,unalive,0.0
+TX,unaliving,0.0
+TX,unmotivated,0.0
+TX,unwanted,0.37580008120104696
+TX,unwell,0.0
+TX,vulnerable,0.5435191589471711
+TX,worse,0.6394500551165816
+TX,worthless,0.0
+UT,aching,0.481691827939993
+UT,always,0.6601482591356359
+UT,anxiety,0.0
+UT,anymore,0.0
+UT,bpd,0.0
+UT,crippling,0.0
+UT,crying,0.0
+UT,cutting,0.3412226043128746
+UT,depression,0.0
+UT,don't know why,0.3412226043128746
+UT,down,0.8531552790090285
+UT,empty,0.0
+UT,grippy socks,0.0
+UT,help me,0.5229839736648535
+UT,helpless,0.3412226043128746
+UT,hopeless,0.0
+UT,hurt,0.2737715260467386
+UT,hurting,0.0
+UT,i hate myself,0.0
+UT,insecure,0.0
+UT,intrusive,0.0
+UT,kill me,0.0
+UT,kill myself,0.0
+UT,kms,0.0
+UT,lonely,0.0
+UT,lost,0.5229839736648534
+UT,low,0.7855709693553279
+UT,mental health,0.56803435204036
+UT,mental illness,0.0
+UT,mentally ill,0.0
+UT,miserable,0.0
+UT,never,0.6152781477208158
+UT,not well,0.0
+UT,nothing matters,0.0
+UT,numb,0.3412226043128746
+UT,overwhelmed,0.0
+UT,pain,0.49189560804859395
+UT,ptsd,0.5037386522040558
+UT,sad,0.732963411553727
+UT,self harm,0.0
+UT,social anxiety,0.0
+UT,stressed,0.0
+UT,stressy depressy,0.0
+UT,struggle,0.5229839736648535
+UT,stuck,0.3412226043128746
+UT,suey,0.0
+UT,suicidal,0.3412226043128746
+UT,suicide,0.6619218432667722
+UT,tired,0.11332617835740051
+UT,trauma,0.3412226043128746
+UT,unalive,0.0
+UT,unaliving,0.0
+UT,unmotivated,0.0
+UT,unwanted,0.0
+UT,unwell,0.0
+UT,vulnerable,0.6298497120148899
+UT,worse,0.3412226043128746
+UT,worthless,0.0
+VA,aching,0.8352782199160848
+VA,always,0.4871189139587377
+VA,anxiety,0.0
+VA,anymore,0.0
+VA,bpd,0.0
+VA,crippling,0.47799079633596525
+VA,crying,0.0
+VA,cutting,0.0
+VA,depression,-0.3023950716015161
+VA,don't know why,0.4380988669845285
+VA,down,0.559522735341216
+VA,empty,0.0
+VA,grippy socks,0.0
+VA,help me,0.0
+VA,helpless,0.0
+VA,hopeless,0.0
+VA,hurt,0.6722321999636747
+VA,hurting,0.0
+VA,i hate myself,0.0
+VA,insecure,0.0
+VA,intrusive,0.0
+VA,kill me,0.0
+VA,kill myself,0.0
+VA,kms,0.0
+VA,lonely,0.0
+VA,lost,0.47799079633596536
+VA,low,0.8183470179985801
+VA,mental health,0.7498389167377548
+VA,mental illness,0.4380988669845285
+VA,mentally ill,0.0
+VA,miserable,0.0
+VA,never,0.8919516064943287
+VA,not well,0.0
+VA,nothing matters,0.0
+VA,numb,0.7100764250899168
+VA,overwhelmed,0.0
+VA,pain,0.578257197652137
+VA,ptsd,0.0
+VA,sad,0.47799079633596525
+VA,self harm,0.0
+VA,social anxiety,0.0
+VA,stressed,0.0
+VA,stressy depressy,0.0
+VA,struggle,0.57120293009265
+VA,stuck,0.49295026984275403
+VA,suey,0.0
+VA,suicidal,0.0
+VA,suicide,0.0
+VA,tired,0.47799079633596525
+VA,trauma,0.47799079633596536
+VA,unalive,0.0
+VA,unaliving,0.0
+VA,unmotivated,0.0
+VA,unwanted,0.0
+VA,unwell,0.0
+VA,vulnerable,0.0
+VA,worse,0.5877071200058442
+VA,worthless,0.0
+VT,aching,0.0
+VT,always,0.6638886206650157
+VT,anxiety,0.0
+VT,anymore,-0.481264779163832
+VT,bpd,0.0
+VT,crippling,0.0
+VT,crying,0.0
+VT,cutting,0.2989372838062888
+VT,depression,0.30585051386112677
+VT,don't know why,0.5262427959081154
+VT,down,0.5735608998596625
+VT,empty,0.8271211460172647
+VT,grippy socks,0.0
+VT,help me,0.0
+VT,helpless,0.5419851017686145
+VT,hopeless,0.6269475527776217
+VT,hurt,0.5419851017686146
+VT,hurting,0.0
+VT,i hate myself,0.0
+VT,insecure,0.0
+VT,intrusive,0.0
+VT,kill me,0.0
+VT,kill myself,0.0
+VT,kms,0.0
+VT,lonely,0.0
+VT,lost,0.71347680300506
+VT,low,0.47090921537470126
+VT,mental health,0.3058505138611268
+VT,mental illness,0.0
+VT,mentally ill,0.0
+VT,miserable,0.0
+VT,never,0.8012395776046
+VT,not well,0.3058505138611268
+VT,nothing matters,0.0
+VT,numb,0.6005728761416438
+VT,overwhelmed,0.0
+VT,pain,0.46332621344376596
+VT,ptsd,0.0
+VT,sad,0.34037079297224426
+VT,self harm,0.0
+VT,social anxiety,0.0
+VT,stressed,0.5262427959081154
+VT,stressy depressy,0.0
+VT,struggle,0.0
+VT,stuck,0.7938409010756698
+VT,suey,0.0
+VT,suicidal,0.0
+VT,suicide,-0.2199422741438058
+VT,tired,0.36303265570898885
+VT,trauma,0.4337707537185335
+VT,unalive,0.0
+VT,unaliving,0.0
+VT,unmotivated,0.0
+VT,unwanted,0.0
+VT,unwell,0.0
+VT,vulnerable,0.5262427959081153
+VT,worse,0.3058505138611268
+VT,worthless,0.0
+WA,aching,0.15029342170512242
+WA,always,0.49528201202756583
+WA,anxiety,0.0
+WA,anymore,0.0
+WA,bpd,0.0
+WA,crippling,0.0
+WA,crying,0.0
+WA,cutting,0.0
+WA,depression,0.0
+WA,don't know why,0.0
+WA,down,0.43671781119269754
+WA,empty,0.0
+WA,grippy socks,0.0
+WA,help me,0.5636103412778932
+WA,helpless,0.0
+WA,hopeless,0.0
+WA,hurt,0.0
+WA,hurting,0.0
+WA,i hate myself,0.0
+WA,insecure,0.0
+WA,intrusive,0.0
+WA,kill me,0.0
+WA,kill myself,0.0
+WA,kms,0.0
+WA,lonely,-0.3555080614214404
+WA,lost,0.36417898974879265
+WA,low,0.6883339545304784
+WA,mental health,0.0
+WA,mental illness,0.0
+WA,mentally ill,0.0
+WA,miserable,0.0
+WA,never,0.4322041732169628
+WA,not well,0.0
+WA,nothing matters,0.0
+WA,numb,0.6381835084291235
+WA,overwhelmed,0.0
+WA,pain,0.47748491397494514
+WA,ptsd,0.0
+WA,sad,0.6303443662492187
+WA,self harm,0.0
+WA,social anxiety,0.0
+WA,stressed,0.0
+WA,stressy depressy,0.0
+WA,struggle,0.0
+WA,stuck,0.46823012967701905
+WA,suey,0.0
+WA,suicidal,0.0
+WA,suicide,0.0
+WA,tired,0.6482064456306622
+WA,trauma,0.0
+WA,unalive,0.0
+WA,unaliving,0.0
+WA,unmotivated,0.0
+WA,unwanted,0.0
+WA,unwell,0.0
+WA,vulnerable,0.0
+WA,worse,0.0
+WA,worthless,0.0
+WI,aching,-0.09757890942193836
+WI,always,0.5887384188284933
+WI,anxiety,0.0
+WI,anymore,0.06652271185114804
+WI,bpd,0.0
+WI,crippling,0.0
+WI,crying,0.06652271185114803
+WI,cutting,0.0
+WI,depression,0.0
+WI,don't know why,0.45087615810222553
+WI,down,-0.04042913223774416
+WI,empty,0.0
+WI,grippy socks,0.0
+WI,help me,0.0
+WI,helpless,0.0
+WI,hopeless,0.0
+WI,hurt,0.0
+WI,hurting,0.0
+WI,i hate myself,0.0
+WI,insecure,0.4508761581022255
+WI,intrusive,0.0
+WI,kill me,0.0
+WI,kill myself,0.0
+WI,kms,0.0
+WI,lonely,0.0
+WI,lost,0.6371765735975925
+WI,low,0.2785260652257293
+WI,mental health,0.06652271185114803
+WI,mental illness,0.0
+WI,mentally ill,0.0
+WI,miserable,0.0
+WI,never,0.45708023316139634
+WI,not well,0.0
+WI,nothing matters,0.0
+WI,numb,-0.03225749904292259
+WI,overwhelmed,0.0
+WI,pain,0.04391504303696371
+WI,ptsd,0.0
+WI,sad,0.8568120453180639
+WI,self harm,0.0
+WI,social anxiety,0.0
+WI,stressed,0.0
+WI,stressy depressy,0.0
+WI,struggle,0.0
+WI,stuck,-0.18796020203185526
+WI,suey,0.0
+WI,suicidal,0.0
+WI,suicide,0.0
+WI,tired,0.7621057567292744
+WI,trauma,0.0
+WI,unalive,0.0
+WI,unaliving,0.0
+WI,unmotivated,0.0
+WI,unwanted,0.0
+WI,unwell,0.0
+WI,vulnerable,0.0
+WI,worse,-0.12314376342056282
+WI,worthless,0.0
+WV,aching,0.0
+WV,always,0.504641133543638
+WV,anxiety,0.0
+WV,anymore,0.7530631408055861
+WV,bpd,0.0
+WV,crippling,0.0
+WV,crying,0.0
+WV,cutting,0.0
+WV,depression,0.0
+WV,don't know why,0.0
+WV,down,0.32665969249058613
+WV,empty,0.4012791487736773
+WV,grippy socks,0.0
+WV,help me,0.0
+WV,helpless,0.0
+WV,hopeless,0.0
+WV,hurt,0.0
+WV,hurting,0.0
+WV,i hate myself,0.0
+WV,insecure,0.0
+WV,intrusive,0.0
+WV,kill me,0.0
+WV,kill myself,0.0
+WV,kms,0.0
+WV,lonely,0.0
+WV,lost,0.23107985156919056
+WV,low,0.8571965075660554
+WV,mental health,0.4012791487736774
+WV,mental illness,0.0
+WV,mentally ill,0.0
+WV,miserable,0.0
+WV,never,0.3298263806975531
+WV,not well,0.0
+WV,nothing matters,0.0
+WV,numb,0.9426473648050995
+WV,overwhelmed,0.0
+WV,pain,0.6447622321433532
+WV,ptsd,0.0
+WV,sad,0.4012791487736774
+WV,self harm,0.0
+WV,social anxiety,0.0
+WV,stressed,0.0
+WV,stressy depressy,0.0
+WV,struggle,0.6528251463690071
+WV,stuck,-0.3428590340357434
+WV,suey,0.0
+WV,suicidal,0.0
+WV,suicide,0.0
+WV,tired,0.9396438808857044
+WV,trauma,0.0
+WV,unalive,0.0
+WV,unaliving,0.0
+WV,unmotivated,0.0
+WV,unwanted,0.0
+WV,unwell,0.0
+WV,vulnerable,0.0
+WV,worse,0.6524588751581499
+WV,worthless,0.0
+WY,aching,-0.3667691003257181
+WY,always,0.4097332608616811
+WY,anxiety,0.0
+WY,anymore,0.0
+WY,bpd,0.0
+WY,crippling,0.0
+WY,crying,0.0
+WY,cutting,-0.2852648558088918
+WY,depression,0.0
+WY,don't know why,0.0
+WY,down,0.5278090918686863
+WY,empty,0.0
+WY,grippy socks,0.0
+WY,help me,0.0
+WY,helpless,0.0
+WY,hopeless,0.0
+WY,hurt,0.0
+WY,hurting,0.0
+WY,i hate myself,0.0
+WY,insecure,0.0
+WY,intrusive,0.0
+WY,kill me,0.0
+WY,kill myself,0.0
+WY,kms,0.0
+WY,lonely,0.0
+WY,lost,-0.16052530439470794
+WY,low,-0.3996176212723726
+WY,mental health,0.4482733448425443
+WY,mental illness,0.0
+WY,mentally ill,0.0
+WY,miserable,0.0
+WY,never,0.3298813921036804
+WY,not well,0.0
+WY,nothing matters,0.0
+WY,numb,-0.2466676731329687
+WY,overwhelmed,0.0
+WY,pain,0.47199108719071203
+WY,ptsd,0.0
+WY,sad,0.5896977419673616
+WY,self harm,0.0
+WY,social anxiety,0.0
+WY,stressed,0.0
+WY,stressy depressy,0.0
+WY,struggle,0.0
+WY,stuck,0.5297775893593705
+WY,suey,0.0
+WY,suicidal,0.0
+WY,suicide,0.0
+WY,tired,0.5297775893593707
+WY,trauma,0.0
+WY,unalive,0.0
+WY,unaliving,0.0
+WY,unmotivated,0.0
+WY,unwanted,0.0
+WY,unwell,0.0
+WY,vulnerable,0.0
+WY,worse,0.7368753886229895
+WY,worthless,0.0
